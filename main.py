@@ -1,9 +1,6 @@
-import os
-
 
 def main():
-    unused_variable = 42
-    print(undefined_variable)
+    print("Hello from assignment 5!")
 
 
 if __name__ == "__main__":
